@@ -1,2 +1,4 @@
 ---
 # defaults file for mongodb
+
+mongodb_version: 3.0.1
