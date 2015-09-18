@@ -1,7 +1,7 @@
 mongodb
 =======
 
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-kbrebanov.mongodb-660198.svg)](https://galaxy.ansible.com/list#/roles/3287)
+[![Ansible Role](https://img.shields.io/ansible/role/3287.svg)](https://galaxy.ansible.com/list#/roles/3287)
 
 Installs and configures MongoDB
 
