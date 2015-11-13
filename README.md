@@ -15,7 +15,7 @@ Role Variables
 
 | Name            | Default   | Description                     |
 |-----------------|-----------|---------------------------------|
-| mongodb_version | 3.0.4     | MongoDB version to install      |
+| mongodb_version | 3.0.7     | MongoDB version to install      |
 | mongodb_port    | 27017     | TCP port MongoDB will listen on |
 | mongodb_bind_ip | 127.0.0.1 | IP address MongoDB will bind to |
 
